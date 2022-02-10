@@ -1,4 +1,12 @@
-### Hi there 👋
+# Halo semua! 
+
+Perkenalkan nama saya **Satrio Bagus Imanulloh**.
+
+Saya seorang **Mahasiwa** di [Universitas Dian Nuswantoro](https://dinus.ac.id/).
+
+Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/satrio-bagus-imanulloh-819b40222/)ku ya.
+
+
 
 <!--
 **Satriobagusimanulloh/SatrioBagusImanulloh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
