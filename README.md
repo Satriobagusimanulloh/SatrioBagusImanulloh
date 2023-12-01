@@ -2,9 +2,9 @@
 
 Perkenalkan nama saya **Satrio Bagus Imanulloh**.
 
-Saya seorang **Mahasiwa** di [Universitas Dian Nuswantoro](https://dinus.ac.id/).
+Saya seorang **Lulusan** dari [Universitas Dian Nuswantoro](https://dinus.ac.id/).
 
-Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/satrio-bagus-imanulloh-819b40222/)ku ya.
+Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/satrio-imanulloh-819b40222/) saya ya.
 
 <p align="left">
 <a href="https://github.com/Satriobagusimanulloh">
