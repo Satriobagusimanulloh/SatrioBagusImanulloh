@@ -2,7 +2,7 @@
 
 Dedicated **Computer Science** graduate with a **GPA of 3.77** from Universitas Dian Nuswantoro. 
 Proven track record in **collaborative projects**, highlighted by the success of the [**"My Plants"**](https://github.com/Satriobagusimanulloh/project-capstone) project at Bangkit Academy 2022.
-Skilled in FastAPI and machine learning, showcased by the development of a **Credit Risk API**. 
+Skilled in FastAPI and machine learning, showcased by the development of a [**Credit Risk API**](https://github.com/Satriobagusimanulloh/Credit-Risk-Project). 
 Proficient in Git and testing methodologies. 
 Enthusiastic about contributing to innovative projects in **Artificial Intelligence, Machine Learning, and Data Science**.
 
