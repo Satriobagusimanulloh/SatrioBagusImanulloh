@@ -6,9 +6,9 @@ Skilled in FastAPI and machine learning, showcased by the development of a [**Cr
 Proficient in Git and testing methodologies. 
 Enthusiastic about contributing to innovative projects in **Artificial Intelligence, Machine Learning, and Data Science**.
 
-[**Linkedin**](https://www.linkedin.com/in/satrio-imanulloh-819b40222/)
-[**Tableau**](https://public.tableau.com/app/profile/satrio.bagus.imanulloh/vizzes?authMode=activationSuccess)
-[**Linktree**](https://linktr.ee/satriobagus)
+- [**Linkedin**](https://www.linkedin.com/in/satrio-imanulloh-819b40222/)
+- [**Tableau**](https://public.tableau.com/app/profile/satrio.bagus.imanulloh/vizzes?authMode=activationSuccess)
+- [**Linktree**](https://linktr.ee/satriobagus)
 
 <p align="left">
 <a href="https://github.com/Satriobagusimanulloh">
