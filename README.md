@@ -1,10 +1,14 @@
 # Halo semua! 
 
-Perkenalkan nama saya **Satrio Bagus Imanulloh**.
+Dedicated **Computer Science** graduate with a **GPA of 3.77** from Universitas Dian Nuswantoro. 
+Proven track record in **collaborative projects**, highlighted by the success of the [**"My Plants"**](https://github.com/Satriobagusimanulloh/project-capstone) project at Bangkit Academy 2022.
+Skilled in FastAPI and machine learning, showcased by the development of a **Credit Risk API**. 
+Proficient in Git and testing methodologies. 
+Enthusiastic about contributing to innovative projects in **Artificial Intelligence, Machine Learning, and Data Science**.
 
-Saya seorang **Lulusan** dari [Universitas Dian Nuswantoro](https://dinus.ac.id/).
-
-Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/satrio-imanulloh-819b40222/) saya ya.
+[**Linkedin**](https://www.linkedin.com/in/satrio-imanulloh-819b40222/)
+[**Tableau**](https://public.tableau.com/app/profile/satrio.bagus.imanulloh/vizzes?authMode=activationSuccess)
+[**Linktree**](https://linktr.ee/satriobagus)
 
 <p align="left">
 <a href="https://github.com/Satriobagusimanulloh">
